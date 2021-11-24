@@ -1,4 +1,4 @@
-# Authentication-Template
+# Authentication-Template (website name: Whisper)
 
 This is whisper app, where users can log in using local, google or facebook login to 
   view other people's secrets without knowing who they actually are..
